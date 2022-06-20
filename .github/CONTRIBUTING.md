@@ -65,4 +65,5 @@ Thank you for your contribution!
 Finally, please add your name below:
 
 1. OpenMS Team
+2. Julian PG Riches (Jigidy)
 
